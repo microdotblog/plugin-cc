@@ -1,0 +1,6 @@
+{
+	"version": "1.0",
+	"title": "Creative Commons license",
+	"description": "Adds a hidden microformat license tag to your blog.",
+	"includes": [ "cc-license.html" ]
+}
