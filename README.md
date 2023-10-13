@@ -1,0 +1,2 @@
+# plugin-cc
+Creative Commons
