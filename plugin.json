@@ -6,8 +6,8 @@
 	"fields": [
 		{
 			"field": "params.cc_license_url",
-			"label": "Creative Commons license",
-			"placeholder": "Enter the license URL"
+			"label": "License URL",
+			"placeholder": "Enter the Creative Commons license"
 		}
 	]
 }
