@@ -2,5 +2,12 @@
 	"version": "1.0",
 	"title": "Creative Commons license",
 	"description": "Adds a hidden microformat license tag to your blog.",
-	"includes": [ "cc-license.html" ]
+	"includes": [ "cc-license.html" ],
+	"fields": [
+		{
+			"field": "params.cc_license_url",
+			"label": "Creative Commons license",
+			"placeholder": "Enter the license URL"
+		}
+	]
 }
